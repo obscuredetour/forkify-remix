@@ -165,6 +165,19 @@ body {
     margin-left: 4rem;
     height: 4.5rem;
     display: block; }
+  .header__logo-wrapper {
+    position: relative;
+  }
+  .header__logo-wrapper::after {
+    display: inline-block;
+    content: 'remix';
+    position: absolute;
+    right: -3.75rem;
+    top: 0.75rem;
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #1b2332;
+  }
 
 .search {
   background-color: #fff;
