@@ -455,8 +455,8 @@ body {
   flex-direction: column; }
   .shopping__list {
     list-style: none;
-    max-height: 77rem;
-    overflow: scroll; }
+    /* max-height: 77rem;
+    overflow: scroll; */ }
   .shopping__item {
     display: flex;
     align-items: flex-start;
