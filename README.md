@@ -1,5 +1,6 @@
-# Forkify remix
-A web app for finding and saving recipies and their ingredients. Developed by Jonas Schmedtmann & [Jeffrey Summers](https://www.jeffreysummers.me). Powered by FoodtoFork.com
+# Forkify remix (archived)
+Archived due to API (foodtofork) going away
+A web app for finding and saving recipies and their ingredients. Developed by Jonas Schmedtmann & Jamie Summers. Powered by FoodtoFork.com
 
 ## Use the app
 You can use [Forkify remix here](https://forkify-remix.netlify.com/).
